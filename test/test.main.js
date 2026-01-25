@@ -26,7 +26,7 @@ var isNegativeZero = require( '@stdlib/math-base-assert-is-negative-zero' );
 var toAccessorArray = require( '@stdlib/array-base-to-accessor-array' );
 var Float64Array = require( '@stdlib/array-float64' );
 var Uint8Array = require( '@stdlib/array-uint8' );
-var mskmin = require( './../lib/mskmin.js' );
+var mskmin = require( './../lib/main.js' );
 
 
 // TESTS //
